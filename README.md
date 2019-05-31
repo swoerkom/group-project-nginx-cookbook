@@ -1,1 +1,4 @@
-# group-project-nginx-cookbook
+# nginx
+
+TODO: Enter the cookbook description here.
+
